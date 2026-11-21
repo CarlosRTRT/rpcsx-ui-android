@@ -25,8 +25,8 @@ import net.rpcsx.ui.settings.components.preference.RegularPreference
 import net.rpcsx.R
 
 const val DefaultGpuDriverChannel = "https://github.com/K11MCH1/AdrenoToolsDrivers"
-const val ReleaseUiChannel = "https://github.com/Ouroboros420/rpcsx-ui-android"
-const val DevUiChannel = "https://github.com/Ouroboros420/rpcsx-ui-android"
+const val ReleaseUiChannel = "https://github.com/CarlosRTRT/rpcsx-ui-android"
+const val DevUiChannel = "https://github.com/CarlosRTRT/rpcsx-ui-android"
 const val ReleaseRpcsxChannel = "https://github.com/Ouroboros420/rpcsx"
 const val DevRpcsxChannel = "https://github.com/Ouroboros420/rpcsx"
 
